@@ -11,5 +11,8 @@
     "node": "6.2.2"
   },
   "author": "'Faisal'",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
